@@ -499,6 +499,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 ### Server Managers
 
+- [BytesAgain](https://github.com/bytesagain/ai-skills) - Search 60,000+ AI agent skills via MCP SSE or REST API. Supports 7 languages. Free, no auth. Endpoint: `https://bytesagain.com/api/mcp/sse`
 - [mcp-get](https://github.com/michaellatman/mcp-get) - CLI tool for installing and managing MCP servers. Simplifies server installation and configuration for Claude Desktop.
   - Supports NPM-based servers
   - Automatic configuration generation
