@@ -69,6 +69,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 🧬 - [Research & Data](#research-data)
 - 🤝 - [AI Services](#ai-services)
 - 💻 - [Development Tools](#development-tools)
+- [ArchitectOS](https://github.com/cgseyhan/architectos) - AI-native repository intelligence, architectural governance, and living AST graph analysis tool.
 - 📊 - [Data Visualization](#data-visualization)
 - 🆔 - [Identity](#identity)
 - 🔗 - [Aggregators](#aggregators)
